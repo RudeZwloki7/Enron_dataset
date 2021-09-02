@@ -109,6 +109,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ud120-projects/.idea/
+ud120-projects/.vscode/
+ud120-projects/enron_mail_20150507.tar.gz
+
 
 # Spyder project settings
 .spyderproject
